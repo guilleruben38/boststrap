@@ -1,0 +1,12 @@
+
+
+.fondo-img {
+    background-image:url("../assets/fondo.jpg");
+    height: 100vh;
+    
+}
+
+
+body {
+    background-color: black;
+}
